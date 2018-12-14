@@ -3,16 +3,17 @@
 ## Presentation
 Sewer Survivor is a video game made with Unity as a project for the Artificial Intelligence class, by Jose Rodriguez and David Valdivia, two students of the UPC university (CITM), located in Terrassa (Barcelona).
 
+<img src="Images/TeamPhoto.jpg" width="400">
+
 ## The game
 
-## Types of agents:
+### Types of agents:
 Human
 <img src="Images/HumanUI.png" width="100">
 Medic
 <img src="Images/MedicUI.png" width="100">
 Militar
 <img src="Images/MilitarUI.png" width="100">
-
 
 
 ## The team
@@ -30,21 +31,14 @@ _David Valdivia_
 
 Unzip the release folder and execute the .exe file to play.
 
-[Release]()
+[Release](https://github.com/ValdiviaDev/Sewer-Survivor/releases/tag/1.0)
 
 ## Gameplay
 
 ## Game Controls
 
-  * Left click: 
 
-- To the "Create" or "Upgrade" buttons to unfold the buttons for the agents you can create or the
-areas you can upgrade.
-
-- To the different buttons for creation or upgrade to create agents or upgrade areas.
-
-- To the buttons of "Build Factory" and "Repair Fence" to show which factories can be built
-and which fences can be repaired. Then press on the green square that shows where you can edificate, to do it.
+   * Left click ➲ Interact with the various buttons and construction modules.
 
 To move the camera:
 
@@ -56,7 +50,7 @@ To move the camera:
    
    * S ➲ To move back
 
-  * Mouse ➲ Move the mouse to the borders of the screen to move the camera in that direction.
+   * Mouse ➲ Move the mouse to the borders of the screen to move the camera in that direction.
 
 
 ## Sources
