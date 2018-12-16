@@ -6,7 +6,7 @@ Sewer Survivor is a video game made with Unity as a project for the Artificial I
 ## The game
 Sewer Survivor takes place in a desertic area where a company of people called "The Sewer Crew" have to survive while finding a cure for a disease that has caused the apocallypsis. They will have to find the cure in less than 7 days or they will be done for! Will you be able to find the cure in Sewer Survivor?
 
-### Types of agents:
+### Meet the agents:
 Citizen
 
 <img src="Images/HumanUI.png" width="100">
@@ -36,18 +36,35 @@ _Jose Rodriguez_
 * **Github**: [joserm45](https://github.com/joserm45)
 
 ### Work Done:
+* Path generation with NavMesh and path following without NavMesh
+* Militar and Zombie behaviours and behaviour trees
+* UI design and implementation
+* Zombie fence destruction logic
+* Zombie instantation logic
+* Logic for value displaying on UI
+* Agent death logic
+* Medic and militar instantation gameplay element logic
+* Food gathering and medic investigation logic
+* Bug fixing
+* Balance
 
 _David Valdivia_
 * **Github**: [ValdiviaDev](https://github.com/ValdiviaDev)
 
 ### Work Done:
+* Camera movement
+* Day/night cycle logic
 * Some of the steering behaviours
 * Wander atomic behaviour
 * Human and Medic behaviours and behaviour trees
-* Start & Finish screens and its transitions
+* Factory construction and fence reparir logic
+* Start & Finish screens and its transitions (fade to black)
+* Win/lose conditions logic
 * UI and sound design/implementation
 * Area upgrade system
 * End of the day food fee system
+* Bug fixing
+* Balance
 
 ## Installation
 
