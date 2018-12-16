@@ -61,7 +61,8 @@ Unzip the release folder and execute the .exe file to play.
 
 * Recomended: 1280 x 720 or greater
 
-## Gameplay
+## Gameplay Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0GlYNjorR8Q" frameborder="0" allowfullscreen></iframe>
 
 ## Game Controls
 
